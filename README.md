@@ -30,8 +30,8 @@ This shell script automates the deployment process. It includes commands to chec
 2. Clone this repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/valiantlynx/k8s_demo.git
+    cd k8s_demo
     ```
 
 3. Make sure to customize the values in `mongo-secret.yml` with your desired MongoDB username and password.
