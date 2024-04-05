@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: nanajanashia/k8s-demo-app:v1.0
+        image: valiantlynx/svelte-manga
         ports:
         - containerPort: 3000
         env:
